@@ -1,7 +1,4 @@
 
-## Captures generals
-[Obrir carpeta d'imatges](./img)
-
 # Descripció de l'activitat
 
 "Configureu un servidor DHCP amb Kea sobre Ubuntu Server i comproveu-ne el funcionament mitjançant un client Zorin, seguint les indicacions de la presentació.
@@ -13,3 +10,7 @@ Es valorarà com a extra publicar la documentació en format Markdown en un repo
 - El fitxer .md.
 
 - L’enllaç al repositori de GitHub."
+
+## Captures generals
+[Obrir carpeta d'imatges](./img)
+
