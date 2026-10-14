@@ -1,6 +1,6 @@
 
 ## Captures generals
-[Ver carpeta de imágenes](./img)
+[Obrir carpeta d'imatges](./img)
 
 # Descripció de l'activitat
 
