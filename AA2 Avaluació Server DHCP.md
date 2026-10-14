@@ -1,4 +1,4 @@
 
 ## Captures generals
-[Link](<Serveis-de-xarxa-26-27\img>)
+[Ver carpeta de imágenes](./img)
 
