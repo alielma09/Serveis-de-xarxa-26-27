@@ -7,9 +7,9 @@ Cal lliurar una memòria documentada amb les configuracions, comprovacions, capt
 
 Es valorarà com a extra publicar la documentació en format Markdown en un repositori de GitHub. En aquest cas, cal lliurar:
 
-- El fitxer .md.
+ - El fitxer .md.
 
-- L’enllaç al repositori de GitHub."
+ - L’enllaç al repositori de GitHub."
 
 ## Captures generals
 [Obrir carpeta d'imatges](./img)
