@@ -14,3 +14,4 @@ Es valorarà com a extra publicar la documentació en format Markdown en un repo
 ## Captures generals
 [Obrir carpeta d'imatges](./img)
 
+w
